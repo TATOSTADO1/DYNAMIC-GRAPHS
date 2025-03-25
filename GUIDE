@@ -1,0 +1,55 @@
+If you want to test the code directly, just install the .exe and run it. Here's a guide.
+1.
+MODIFY MATRIX
+➢
+Insert Vertex.
+Inserts a new vertex into the graph.
+➢
+Insert Edge.
+Adds an edge between two vertices in the graph, including its weight.
+➢
+Delete Vertex.
+Deletes a vertex and its associated edges.
+➢
+Delete Edge.
+Deletes an edge between two vertices.
+2.
+SHOW GRAPH
+Displays the stored list of linked lists.
+3.
+SHOW MATRIX
+Displays the graph's adjacency matrix with its weights.
+4.
+CARDINALITY
+Displays the number of distinct nodes within the graph.
+5.
+X ADJACENT TO Y
+Validates whether a source node is adjacent to a destination node.
+6.
+QUADRATIC MATRIX
+Displays the quadratic matrix of the adjacency matrix.
+7.
+CUBIC MATRIX
+Displays the cubic matrix of the adjacency matrix.
+8.
+TREES
+➢
+Breadth-first traversal.
+Performs a breadth-first traversal (BFS).
+➢
+Depth-first traversal.
+Performs a depth-first traversal (DFS).
+➢
+Minimum Spanning Tree (Kruskal).
+Constructs a minimum spanning tree using Kruskal's algorithm.
+➢
+Minimum Spanning Tree (PRIM).
+Constructs a minimum spanning tree using Prim's algorithm.
+➢
+Dijkstra Path.
+❖
+Dijkstra start.
+Find the shortest path from a starting vertex to all other vertices.
+❖
+Dijkstra start end.
+Find the shortest path between a starting vertex and a destination vertex.
